@@ -1,0 +1,28 @@
+_repo: The-Rangers--or-The-Tory-s-Daughter--13-A-Tale-Illustrative-of-the-Revolutionary-History-of-Ve__6947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Daniel P. (Daniel Pierce)
+    aliases:
+    - Thompson, Daniel Pierce
+    - Thompson, D. P. (Daniel Pierce)
+    birthdate: 1795
+    deathdate: 1868
+    gutenberg_agent_id: '2270'
+    url: http://www.gutenberg.org/2009/agents/2270
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vermont -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "The Rangers; or, The Tory's Daughter\r\nA Tale Illustrative of the Revolutionary\
+  \ History of Vermont and the Northern Campaign of 1777"
+url: http://www.gutenberg.org/ebooks/6947
